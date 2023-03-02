@@ -1,6 +1,6 @@
 # FileReplacement
 Python implements the replacement of a large number of files by a single file in a specified directory
-的
+
 # How to use
 1.Run cmd
 
